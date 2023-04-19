@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T03:12:42.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="fCyhs9knavI114m25Wpw" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T03:42:27.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="HvxMPVMAPT2gGBHxwM1t" version="21.1.9" type="github">
   <diagram name="第 1 页" id="c1z86hROoJ83N0xTIpAj">
-    <mxGraphModel dx="1223" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2050" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,11 +9,23 @@
             <mxPoint x="270" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPsClgzw1lq98dMpHmp5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPsClgzw1lq98dMpHmp5-1" target="TPsClgzw1lq98dMpHmp5-11" edge="1">
+        <mxCell id="TPsClgzw1lq98dMpHmp5-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="TPsClgzw1lq98dMpHmp5-1" target="TPsClgzw1lq98dMpHmp5-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-1" target="ds31cZyR-xws_roNyWMa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-1" target="ds31cZyR-xws_roNyWMa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-1" target="ds31cZyR-xws_roNyWMa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-1" target="ds31cZyR-xws_roNyWMa-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPsClgzw1lq98dMpHmp5-1" value="用户" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPsClgzw1lq98dMpHmp5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPsClgzw1lq98dMpHmp5-6" target="TPsClgzw1lq98dMpHmp5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,20 +35,94 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPsClgzw1lq98dMpHmp5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPsClgzw1lq98dMpHmp5-6" target="TPsClgzw1lq98dMpHmp5-13" edge="1">
+        <mxCell id="TPsClgzw1lq98dMpHmp5-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TPsClgzw1lq98dMpHmp5-6" target="ds31cZyR-xws_roNyWMa-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-6" target="ds31cZyR-xws_roNyWMa-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-6" target="ds31cZyR-xws_roNyWMa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-6" target="ds31cZyR-xws_roNyWMa-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPsClgzw1lq98dMpHmp5-6" value="借阅" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-7" target="ds31cZyR-xws_roNyWMa-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-7" target="ds31cZyR-xws_roNyWMa-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-7" target="ds31cZyR-xws_roNyWMa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-7" target="ds31cZyR-xws_roNyWMa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-7" target="ds31cZyR-xws_roNyWMa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-7" target="ds31cZyR-xws_roNyWMa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TPsClgzw1lq98dMpHmp5-7" target="ds31cZyR-xws_roNyWMa-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPsClgzw1lq98dMpHmp5-7" value="图书" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="707" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPsClgzw1lq98dMpHmp5-11" value="借书证号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="210" width="80" height="80" as="geometry" />
+          <mxGeometry x="-183.75" y="210" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TPsClgzw1lq98dMpHmp5-13" value="借阅记录" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="ds31cZyR-xws_roNyWMa-1" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-81.25" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-2" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18.75" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-3" value="联系电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118.75" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-4" value="借阅数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218.75" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-9" value="图书编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-10" value="图书名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-11" value="作者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-12" value="出版社" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-13" value="定价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-14" value="书号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-15" value="图书库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="210" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-24" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-25" value="图书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="560" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-26" value="借阅时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ds31cZyR-xws_roNyWMa-27" value="归还时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="85" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
